@@ -13,7 +13,3 @@
     * [数据统计](https://github.com/dreamant/emailcar_api_docs/issues/1)
 * 触发用户接口
     * [查询余额](https://github.com/dreamant/emailcar_api_docs/issues/1)
-* 触发发件人设置接口
-    * [获取触发发件人列表](https://github.com/dreamant/emailcar_api_docs/issues/1)
-    * [添加触发发件人](https://github.com/dreamant/emailcar_api_docs/issues/1)
-    * [删除触发发件人](https://github.com/dreamant/emailcar_api_docs/issues/1)
