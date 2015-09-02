@@ -4,7 +4,7 @@
 
 > 接口分触发和群发
 
-目录
+触发
 
 * 触发发送接口
     * [触发发送](https://github.com/dreamant/emailcar_api_docs/issues/1)
@@ -13,3 +13,5 @@
     * [数据统计](https://github.com/dreamant/emailcar_api_docs/issues/1)
 * 触发用户接口
     * [查询余额](https://github.com/dreamant/emailcar_api_docs/issues/1)
+
+群发
